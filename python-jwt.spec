@@ -1,6 +1,6 @@
 Name:		python-jwt
 Version:	1.4.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/j/jwt/jwt-%{version}.tar.gz
 Summary:	JSON Web Token library for Python 3.
 URL:		https://pypi.org/project/jwt/
